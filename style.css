@@ -1,0 +1,39 @@
+h1 {
+    color: red;
+  }
+
+  h2 {
+    color: #06ec26;
+    font-style: italic;
+  }
+  ol .external-css {
+    font-style: italic;
+    text-decoration: underline;
+  }
+
+  .un-list {
+    letter-spacing: 5px;
+    color: brown;
+  }
+
+  .un-list span {
+    background-color: yellow;
+    font-weight: bold;
+  }
+  .para-1 {
+    color: brown;
+    font-size: large;
+  }
+  .para-2-small {
+    color: brown;
+    font-size: xx-small;
+  }
+  .para-3-ittalic {
+    color: brown;
+    font-style: italic;
+  }
+  a {
+    color: brown;
+    text-decoration: none;
+    background-color: yellow;
+  }
